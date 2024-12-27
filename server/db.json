@@ -1,0 +1,53 @@
+{
+  "pizzas": [
+    {
+      "id": 1,
+      "name": "Margherita",
+      "price": 200,
+      "description": "Classic cheese and tomato pizza.",
+      "size": "Regular"
+    },
+    {
+      "id": 2,
+      "name": "Pepperoni",
+      "price": 250,
+      "description": "Pepperoni with mozzarella.",
+      "size": "Regular"
+    },
+    {
+      "id": 3,
+      "name": "Hawaiian",
+      "price": 300,
+      "description": "Ham and pineapple with mozzarella.",
+      "size": "Medium"
+    },
+    {
+      "id": 4,
+      "name": "Meat Feast",
+      "price": 350,
+      "description": "Pepperoni, ham, beef and chicken.",
+      "size": "Large"
+    },
+    {
+      "id": 5,
+      "name": "Vegetarian",
+      "price": 300,
+      "description": "Mushrooms, onions, peppers, sweetcorn and olives.",
+      "size": "Medium"
+    },
+    {
+      "id": "0af1",
+      "name": "Veg Extravaganza",
+      "price": 120,
+      "description": "Veggie filled with Cheese",
+      "size": "Medium"
+    },
+    {
+      "id": "f22b",
+      "name": "surya subra",
+      "price": 100,
+      "description": "Surya subra",
+      "size": "S"
+    }
+  ]
+}
